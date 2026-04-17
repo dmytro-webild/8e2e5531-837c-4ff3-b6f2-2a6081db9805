@@ -59,7 +59,7 @@ export default function LandingPage() {
       }}
       title="Timeless Textiles & Crafted Jewelry"
       description="Exquisite handcrafted pieces blending traditional weaving with contemporary jewelry design for the discerning collector."
-      imageSrc="http://img.b2bpic.net/free-photo/elegant-silk-concept-with-copy-space_23-2148623349.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/elegant-silk-concept-with-copy-space_23-2148623349.jpg?_wi=1"
       mediaAnimation="slide-up"
       avatars={[
         {
@@ -113,7 +113,7 @@ export default function LandingPage() {
       useInvertedBackground={true}
       title="Artisan Legacy"
       description="We preserve age-old traditions by merging delicate textile weaves with bold, statement jewelry pieces. Each item tells a story of patience, beauty, and refined aesthetics."
-      imageSrc="http://img.b2bpic.net/free-photo/high-angle-woman-journaling-with-paint_23-2150522470.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/high-angle-woman-journaling-with-paint_23-2150522470.jpg?_wi=1"
     />
   </div>
 
@@ -135,7 +135,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/close-up-gray-fabric-with-soft-folds_23-2151966124.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/elegant-silk-concept-with-copy-space_23-2148623349.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/elegant-silk-concept-with-copy-space_23-2148623349.jpg?_wi=2",
           imageAlt: "luxury material detail texture",
         },
         {
@@ -150,7 +150,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/close-up-engraving-art-tools_23-2149186763.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-woman-journaling-with-paint_23-2150522470.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-woman-journaling-with-paint_23-2150522470.jpg?_wi=2",
           imageAlt: "luxury material detail texture",
         },
         {
@@ -165,7 +165,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/abstract-dark-brown-marble-textured_53876-95577.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/blue-bowl-pumpkin-seeds-with-blue-cloth-stone-background_114579-74675.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/blue-bowl-pumpkin-seeds-with-blue-cloth-stone-background_114579-74675.jpg?_wi=1",
           imageAlt: "luxury material detail texture",
         },
       ]}
@@ -186,7 +186,7 @@ export default function LandingPage() {
           name: "Silk Weave Scarf",
           price: "$120",
           variant: "Linen/Silk",
-          imageSrc: "http://img.b2bpic.net/free-photo/blue-bowl-pumpkin-seeds-with-blue-cloth-stone-background_114579-74675.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/blue-bowl-pumpkin-seeds-with-blue-cloth-stone-background_114579-74675.jpg?_wi=2",
         },
         {
           id: "p2",
